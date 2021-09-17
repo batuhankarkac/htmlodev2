@@ -1,6 +1,6 @@
 # Patika.dev HTML Ödev 2
 
-Bu repo *[Patika.dev](https://www.patika.dev/)* Front-End Eğitimi Kapsamında İlk Repo.
+Bu repo *[Patika.dev](https://www.patika.dev/)* Front-End Eğitimi Kapsamında HTML ödev 2.
 ***
 
 ## Installation
